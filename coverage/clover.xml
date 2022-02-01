@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1643727550933" clover="3.2.0">
-  <project timestamp="1643727550933" name="All files">
+<coverage generated="1643727853790" clover="3.2.0">
+  <project timestamp="1643727853790" name="All files">
     <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="2" coveredelements="2" complexity="0" loc="1" ncloc="1" packages="1" files="1" classes="1"/>
     <file name="calc.js" path="C:\Users\hmaied.benbrahem\calculator-js\calc.js">
       <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
